@@ -3,10 +3,11 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import { CabecalhoComponent } from './cabecalho/cabecalho.component';
-import { FormNovoCartaoComponent } from './form-novo-cartao/form-novo-cartao.component';
-import { MuralComponent } from './mural/mural.component';
-import { CartaoComponent } from './cartao/cartao.component';
+import { CabecalhoComponent } from './components/cabecalho/cabecalho.component';
+import { FormNovoCartaoComponent } from './components/form-novo-cartao/form-novo-cartao.component';
+import { MuralComponent } from './components/mural/mural.component';
+import { CartaoComponent } from './components/cartao/cartao.component';
+
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { CartaoComponent } from './cartao/cartao.component';
     FormNovoCartaoComponent,
     MuralComponent,
     CartaoComponent
+
   ],
   imports: [
     BrowserModule

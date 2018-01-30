@@ -19,7 +19,16 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "styles.css",
+        "assets/css/reset.css",
+        "assets/css/container.css",
+        "assets/css/opcoesDaPagina.css",
+        "assets/css/opcoesDoCartao.css",
+        "assets/css/botaoSync.css",
+        "assets/css/mural.css",
+        "assets/css/cabecalho.css",
+        "assets/css/cartao.css",
+        "assets/css/formNovoCartao.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",

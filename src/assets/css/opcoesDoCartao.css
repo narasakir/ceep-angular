@@ -31,15 +31,15 @@
 }
 
 .opcoesDoCartao-fecha {
-	background-image: url("../img/close.svg");
+	/* background-image: url("../img/close.svg"); */
 }
 
 .opcoesDoCartao-remove {
-	background-image: url("../img/bin2.svg");
+	/* background-image: url("../img/bin2.svg"); */
 }
 
 .opcoesDoCartao-edita {
-	background-image: url("../img/edit.svg");
+	/* background-image: url("../img/edit.svg"); */
 }
 
 .opcoesDoCartao-radioTipo{
